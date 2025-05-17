@@ -1,0 +1,10 @@
+#inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 300px;
+  }
+
+  #submit {
+    margin-top: 10px;
+  }
