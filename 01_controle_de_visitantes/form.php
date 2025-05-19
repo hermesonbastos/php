@@ -46,9 +46,8 @@
     </form>
   </div>
   <div id="success-message" class="center-content hidden">
+    <i class="fa-solid fa-check-double sucess-message__icon"></i>
     <h1>Agendamento realizado com sucesso!</h1>
-    <i class="fa-solid fa-check-double"></i>
-  </div>
   </div>
 </body>
 </html>

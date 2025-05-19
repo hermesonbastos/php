@@ -35,6 +35,7 @@ $(function() {
     $('#form').addClass('hidden');
     $('#form').removeClass('center-content form-guest');
     $('#success-message').removeClass('hidden');
+    $('#success-message').css('display', 'flex');
   }
   
   function handleFormResponse(response) {
